@@ -1,0 +1,46 @@
+table {
+    border: 0.1px solid red;
+    border-collapse: collapse;
+}
+
+.programming{
+    font-family: sans-serif;
+    border-collapse: collapse;
+    width: 50%
+}
+
+ .learn{
+    border-collapse:collapse;
+    width:670px;
+    padding:20px;
+    margin:10px 10 px;
+    text-align: left;
+    background-color:red;
+    color: white;
+    height:25px;
+    border-bottom: 1px solid #ddd;
+    border-spacing: 2px 15 px;
+}
+
+td{
+color:black;
+padding:10px;
+margin:10px 10px;
+border-bottom:1px solid grey;
+
+}
+
+.list {
+    border-bottom:2px solid grey;
+  }
+
+.list1, .list2, .list3{
+    border-bottom:1px solid grey;
+    color:black;
+    padding:10px;
+    margin:10px 10px;
+  
+  }
+  
+
+
